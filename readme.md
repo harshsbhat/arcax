@@ -53,6 +53,9 @@ Arcax is a Streamlit application designed to generate documentation for websites
 2. Open your browser and navigate to the URL provided by Streamlit to use the application.
 
 ## How It Works
+**VIDEO EXAMPLE**
+
+https://www.loom.com/share/d565163ab6e345f2b3239b32e676cfc4?sid=6b230623-fb25-41a9-b14e-380a13e6193b
 
 - **URL Input**: Enter the URL of the website you want to document.
 - **Action Selection**: Choose between "scrape" or "crawl" to retrieve the website content.
